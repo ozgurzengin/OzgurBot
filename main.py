@@ -11,7 +11,7 @@ import random
 
 # Çevresel değişkenleri yükle
 load_dotenv()
-TOKEN = os.getenv('DISCORD_TOKEN')
+TOKEN = os.getenv('1399831868144353411')
 
 # Bot intentlerini ayarla
 intents = discord.Intents.default()
